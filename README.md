@@ -8,4 +8,4 @@ A desktop Java Application build using Jsoup API that is used to backup codeforc
 1. First clone the repo  : ``` git clone https://github.com/amanmj/Codeforces-Backup ```
 2. Enter the directory CF : ``` cd CF```
 3. Use the following command : ``` java -jar Codeforces-Backup.jar```
-4. Enter the username of the user and you are done.
+4. Enter the username of the user , select the directory where you want to save the codes and you are done.
