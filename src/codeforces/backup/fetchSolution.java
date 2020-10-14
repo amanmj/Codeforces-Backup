@@ -14,7 +14,8 @@ public class fetchSolution
     private HashSet prob=new HashSet();
     void fetch(String id,File f)
     {
-        try 
+       // Try hard yes you try hard
+	 try 
         {
             utility_tools util=new utility_tools();                      
             
